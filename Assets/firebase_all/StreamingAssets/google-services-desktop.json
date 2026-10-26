@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "1038926549782",
+    "project_id": "keep-burning-3687f",
+    "storage_bucket": "keep-burning-3687f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038926549782:ios:c25cfb0d2d48e58263b637",
+        "android_client_info": {
+          "package_name": "com.sukikatte.3D-Project"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXc3UncQgTELDNuUuQ1zhWMSRlaW1vso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
